@@ -1,7 +1,22 @@
-<css>
-
-body {
+<html>
+<head>
+    <link href="index.css" rel="stylesheet" type="text/css">
+</head>
+<body>
   background-color: rgb(223,223,214);
   padding: 100px;
   color: #355465;
-}  
+  background-image: url(images/tile.png);
+  }
+
+a {
+    color: #612c2c;
+    text-decoration: none;
+    }
+a: hover {
+     color: #b23c3c;
+     }
+
+
+</body>
+</html>
